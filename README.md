@@ -1,2 +1,2 @@
 # Humanity-Forward-Solutions.github.io
-Main Sight
+Main Static Site
